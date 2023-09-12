@@ -5,8 +5,8 @@
 Soy un apasionado estudiante full-stack aprendiendo una gran variedad de tecnologías y lenguajes de programación. 
 Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras. Aquí hay un poco más sobre mí:
 
-- 🌐 Estudiante full-stack con experiencia en tecnologías como TypeScript, React, Node.js y más.
-- 💛 Actualmente estudiando en Henry.
+- 🌐 Full-Stack Developer con experiencia en tecnologías como TypeScript, React, Node.js y más.
+- 💛 Graduado del bootcamp Henry.
 - 🚀 Siempre aprendiendo y explorando nuevas tecnologías y enfoques.
 
 ## Mis Habilidades
