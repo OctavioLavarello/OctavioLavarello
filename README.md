@@ -2,16 +2,16 @@
 
 ## Acerca de mí
 
-Soy un apasionado estudiante full-stack aprendiendo una gran variedad de tecnologías y lenguajes de programación. 
-Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras. Aquí hay un poco más sobre mí:
+Soy Full-Dtack Developer aprendiendo una gran variedad de tecnologías y lenguajes de programación. 
+Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras.
 
-- 🌐 Full-Stack Developer con experiencia en tecnologías como TypeScript, React, Node.js y más.
+- 🌐 Full-Stack Developer con experiencia en tecnologías como TypeScript, React, Redux, Node.js, Express, Sequelice, PostgreSQL.
 - 💛 Graduado del bootcamp Henry.
 - 🚀 Siempre aprendiendo y explorando nuevas tecnologías y enfoques.
 
 ## Mis Habilidades
 
-- Front-end: HTML, CSS, TypeScript, React, Redux
+- Front-end: HTML, CSS, Tailwind CSS, TypeScript, React, Redux
 - Back-end: Node.js, Express, Sequelize, PostgreSQL
 
 ## Proyectos Destacados
