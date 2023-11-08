@@ -2,7 +2,7 @@
 
 ## Acerca de mí
 
-Soy Full-Dtack Developer aprendiendo una gran variedad de tecnologías y lenguajes de programación. 
+Soy Full-Stack Developer aprendiendo una gran variedad de tecnologías y lenguajes de programación. 
 Me encanta crear aplicaciones web y soluciones tecnológicas innovadoras.
 
 - 🌐 Full-Stack Developer con experiencia en tecnologías como TypeScript, React, Redux, Node.js, Express, Sequelice, PostgreSQL.
